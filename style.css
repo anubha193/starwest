@@ -435,7 +435,7 @@ body {
   transform: translateX(-100%);
   width: 20px;
   height: 20px;
-  background-image: url(images/Shape\ 13\ copy\ 2.png);
+  background-image:url(images/Shape\ 13\ copy\ 2.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
